@@ -1,2 +1,5 @@
-# js-sdk
-Javascript SDK for MathCelebrit API
+# MathCelebrity JavaScript SDK
+
+## Install
+```bash
+npm install mathcelebrity-sdk
