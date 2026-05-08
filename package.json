@@ -1,0 +1,11 @@
+{
+  "name": "mathcelebrity-sdk",
+  "version": "1.0.0",
+  "description": "Official MathCelebrity JavaScript SDK",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathcelebrity/js-sdk"
+  }
+}
